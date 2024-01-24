@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GoeKb4GErn9JKRbwaBUqqLP0jhiDQPxPD/lR3sgsfJo=",
+  "Source": "CPN_StreamFileUpload_MicroService",
+  "BasePath": "_content/CPN_StreamFileUpload_MicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
